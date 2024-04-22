@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/truffle-upgrades": "^1.21.0",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.4.5",
+    "eth-block-tracker": "^8.1.0"
+  }
+}

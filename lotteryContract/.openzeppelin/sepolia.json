@@ -1,0 +1,70 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x9e27BB54E748618044ae86Bf05d174212f719407",
+    "txHash": "0xf85ad3343dea3fac990457fa1da2b8dfd62b5a0b4bcd15f22943013c8cb0d1c8"
+  },
+  "proxies": [
+    {
+      "address": "0x6deB97A81e1311ceBaC1fC0498926bd1D37Bd7E5",
+      "txHash": "0xe747f72ea1839cb3db74a785eedf62ceeb51398680475f16e318ae49274103e3",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "d0ee9013322778cbb2454ed304503dc7e93838860c87d2ab450a114f8cbd6142": {
+      "address": "0xcb3DC3cf17F8c63b5A8854174e97fa3c6850970C",
+      "txHash": "0xd6801c4df2447ab7e7fdd9666b1c4fed78b465291f2694b92f272c74a3f56d61",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "LotteryContract",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/LotteryContract.sol:7"
+          },
+          {
+            "contract": "LotteryContract",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/LotteryContract.sol:9"
+          },
+          {
+            "contract": "LotteryContract",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/LotteryContract.sol:10"
+          },
+          {
+            "contract": "LotteryContract",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/LotteryContract.sol:11"
+          },
+          {
+            "contract": "LotteryContract",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/LotteryContract.sol:12"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+/* Cible les flèches de contrôle du champ de nombre avec l'ID "mise" */
+#mise::-webkit-inner-spin-button,
+#mise::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+* {
+    text-align: center;
+}
+
+h1 {
+    color: orange;
+    padding: 15px;
+    border: 5px solid red;
+}
+
+.confetti {
+    position: absolute;
+    width: 20em;
+    z-index: 2;
+    display: none;
+}

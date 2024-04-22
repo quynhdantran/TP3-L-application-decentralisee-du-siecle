@@ -1,0 +1,948 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x116E1060Ffb5EECb78958222b729eB187B0465e7",
+    "txHash": "0xc9dfc02a167ce5c703bcff77b90e7c362549cad400bc3c6238d18ac6235cdca3"
+  },
+  "proxies": [
+    {
+      "address": "0x1D3b4F0DF54458F69Bc092AA7Af464BB21f499E0",
+      "txHash": "0x27296341356db986ae555142c598249543cfba8b53c93ca4f3b7f2d9f3ef99e6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4356DB213c3506ce7278b270579C0362A93bdF5d",
+      "txHash": "0xa193ca8bfda0027a4e89f4fc2b8e343dca1f4ffd94b010ac9e6fc2dbe4ec601a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7bd11AD28e11c342Fe19180a782b82D77aFc514a",
+      "txHash": "0xfbb5f741179e331c443ff61d9debcd38c6c544f075e7dba3e45af5f8d2220f87",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6c57d86Ddc0F0cB03D823E8084137483d54A23E2",
+      "txHash": "0x52fc91e0750620fc07f2e42a675f68aa23ccd4b4d1cce59b8d64dab36ce29fb9",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb1Ddd2C02BE0C231991008A7Ed4235CB6951305d",
+      "txHash": "0x5f8394cec6e174b6bc9a43a7fd0af306b15c915da9ff0152fd098339593cb0aa",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xdb3F06F5e066247DB222F9e0E8386Cb85580ee05",
+      "txHash": "0x592a864326e1ca3a966160f248d86fb0e087d5d22eb46dc4bbff7b3dd11cfb90",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf21F97A7459dd48972C7C1487154B34f714C0CE8",
+      "txHash": "0x45cdcd983f67899b53028b638a8baf51ac184ad2e78b7b4ea2a5dc88ecf03813",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x83324C5D97623Eb82f2293b2cD2CB6A0a88A0745",
+      "txHash": "0xbe7af389c847a329371098c55baffc7ec3cf01059e008449327d16389eb8e832",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb6509bf82802e8903639508557E8B80D4f0D51Bb",
+      "txHash": "0x0e9cdee72a8b52ad809bfb41664a5ec793de65f4f811780efda26fe84404fa8e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xE86feCD3ba10E1fAa3B742Ade3C9Ec9CCd9b8123",
+      "txHash": "0xd84a1a2b0c9c7bfd54bafa56e102c5817f61edb627edde3e1889253b19f95b80",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x098D09dB824a9AB7984d42EcCc114dC429594e3C",
+      "txHash": "0x43d17f2d64ebbdff377a87013a3f0cd628e0cb43307ec65aaf37d3b92e8111f2",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8f1C5b778628b222aE44f6B5e45303D3FE648356",
+      "txHash": "0x1be7bef3c49b56f83c4ac1fe0c045272dd8394c28574f926f621314db4f411e6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x73936B27E10Cc77641e45516917915FA7a6D2358",
+      "txHash": "0xc6b4d63fb2d7f9aaf7f56c93d779b18a3044352b6ba0b8689f375f36cce1058b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xe4bE4f70521b62bCe104c64E44f88689B98e3C75",
+      "txHash": "0x6fa46d5edd7cc62b4fa95d0f62e2b8e02222fd0707523da1a0570feb91bc592c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x15B7116ABDe9056792e2e352060f8625b29d16A4",
+      "txHash": "0x1fc7bf8f87c763789eb56d317383eca1fdedd6d5eb46f63decaece7636c21878",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0c23251eD26B0BA08E056262F87ec29ccdF02Fd4",
+      "txHash": "0x2166973425b3dca00e5214e6ae78569ce74ca397da640dc3c772209f89037a8c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x42a67978653a09492300E54A9945Bee42BD95762",
+      "txHash": "0x940e84bafd48ca99f2600c32e945757c62076a15b5a3781ef83a129d8972ff8b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4c870246a5BdA445D6B10868CC900755677e4c18",
+      "txHash": "0x3682a91d59a3aaa6c343df739e020c43e0d01b568c7df001c7416e0e285be323",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0840402F815c9262a0335EAa64c87a900DDc93cb",
+      "txHash": "0xf01d3468b510e2879b7e2710583ff7987f7823f9f36fbfc777955bca5c1d4ead",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xAcCBa5CBD9cD458Dfe9A588592ca54AEBe7A4e97",
+      "txHash": "0x326ffe0a68a54e3d0babb1742bc73c56162d5e335b8296ba61c9503e99ec3d0f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x221C45BDf4994d1D4dB56252CAB6c286F8bD867C",
+      "txHash": "0x8fd28a5dad95cd55de7f67648749f75fd0c7a06cbd45e375a3a4d3cca400660a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x755ca5e71d24380133189752405684F467270FeF",
+      "txHash": "0xcb5ccb4eb0ab6bb8a171e476f9bc978a90ba95eba76f2f74102c058eeaa02799",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb2df5C6103F9D62c6172859c4D550db865d76409",
+      "txHash": "0x35e080af061b460de7a9f11fc8a8a4aa4b30470b4a5d6789d1386bb50df080b8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2A2a21bda0B70A0A66a53495286574569D72F305",
+      "txHash": "0x5c3cedffff0c9d7c5bdf4b54a83e1ccf654bf62925fa7912a8b75703fac2b444",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8423c5B33Ef656fEa37C09508510815Dc9E06928",
+      "txHash": "0x8cabc9d5ba324f12122b3fbb40a311be9dd14da86684eaa2384f866eeb6c1b75",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xBA04b5bd93eDdf3Dd1b94C8d1eB9CFC7a9A303F3",
+      "txHash": "0x33172ff6d6c9e25b0d56bced6032a83b719e9bee38817c749a3018d28bf24969",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xE60bFfccD0F0A2b359367bbeCC80e60d077f1E01",
+      "txHash": "0xfe86903a5f778bdc53b03a7288ff3612bb3635e43ff0d2ca57ba843a5d17b45b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xCF5B2A719c83C82133926ECD4440047a21568fFF",
+      "txHash": "0x84aa4f237b5eeafd39c70331c49118ae3078bd75d9dba9ca156d71368cb93485",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xdD7eE09Cfb669CE5b238276F0aE32E84fC31B0Ff",
+      "txHash": "0xfa3f5543ee4d193bf34e58a47b02302f300aa2759242eace1af21ba10ad2f208",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x92C9F61f97D8b22ce93c44d47f0B469CFd071222",
+      "txHash": "0x02db753d610d649c22778cb84f2e4bc6c6e591de84381172a54593da0910a30f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4483dCF130DFc5679E7C7779a5ea22511A52bE24",
+      "txHash": "0xbe1834883c921b5afb7e17bf181562b9e6ddd37fb8f5bff7486913e8fc0c1ec5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2B204C71A419894983A05668346b5588A29E46ED",
+      "txHash": "0x16a521b9874d21d42d62b471cbe5c10edcab2d93e636ad7f515b5311c07ac0d3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xFEd4134D7b434A61D9420005dbAc40763fB275E9",
+      "txHash": "0xb9f4cc2398b319a9d32a8ff8bb76cf133470937d3db77d53d0ce99f8eb0c5e22",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf30cfe5E44F679E0d45663D82431e01Ee2067175",
+      "txHash": "0x957b3f4df88c50d788f7bd44d10343ea880cbe4a595253e742845742f9da6007",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8003CE93A14a0eeDE7BD304ad2eE27d5D683F9f0",
+      "txHash": "0x602dab860813df1eea8b78ddcc8db44756824f850ec700281ce4df24906ca528",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8fa1838b37C55E3Fa19e8667C7d446b8e8ca0B32",
+      "txHash": "0x0b9e3054ccf0dc1699f2586f45ee6eca7cb7f414fd30900b9cba6e40e1ff8f5d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x285e9D9A5BfcD24e2E40b2531DCcbb43b7Ec57d0",
+      "txHash": "0x0f7e1396da3dd47b191201261c6975410e069f0b750ab8b286e9e5f980f89fd7",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xC249C23EE31A3575663D287982e59FC95C3963D7",
+      "txHash": "0xa444a1b9a6557b3dba8b38af6d1ade742000bf88fa7a68870ca24ff5b1d4ab48",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x302E31897FdfC8F0E5ea6b464b72270d0b8886Ba",
+      "txHash": "0xf435db52828d89b260824d8352b7986c08c1dc89da3b01ab18f476fc0041083c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB8D33DaA11a3BA371D19385b76BBfC8cdF7b90B5",
+      "txHash": "0x35a2a7722441200487d52d8e45b55fc4a3a33d98cfee69adb47792056b56d649",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4cde9694F46897E0F9719f3feb0a8fD248D72614",
+      "txHash": "0xcf4cc83ea836108ad2d35b5906706e7090786913255e1b828802c3b04496cede",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB99FDE16c2d5E4b3Ec9de00Ce83fC442B17a866F",
+      "txHash": "0xfacb34b75c4f454f170994555a4301face6d8e39e21744b0b8d70121635215e3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xE9958919192b50D7caE3725238f5cA17BA761011",
+      "txHash": "0x68c68bfc1dcba495c7c7ea4ca24f6da937767634adf0a7f5b3bc10a05cadec73",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x07D62cB52AD647fCbD00eFDfcC319C35eE4c9233",
+      "txHash": "0x234cfbdd2c8d1735ffbc26d23e661b159b4dd37f57fa504551b98c1dbb11ecef",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6215d237b55aeB33eeca0B9d13a4654556Fb8fdC",
+      "txHash": "0x59e70250cd00bf95e0b1f5158ed7ab6d79c21d9c86ee5c5be4442bdfa7b30bfa",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xEe6d6A610B4522449dcc76a6c4267c87Dc807247",
+      "txHash": "0x2cdad693b98a2fa2ba0046b117320ec672b96a0f0d8678baf344d6d521c21202",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xA8957215455D4AA3Fd89217E7449Cb6ce23deBbE",
+      "txHash": "0xeeac8200277d5492a6a7540b0948bef93cf0bd514dfbde52e06570bb5ae78b63",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1493e90b6f316a7248c0A7f3C909EEd7A1D6290c",
+      "txHash": "0x94c2170420b00702004d99ce737502216888aa7afba46827571c4a26ac1b786b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xEAF7EC8e3Da104A74Ee693005B2f50eD1285Cc0f",
+      "txHash": "0xbc9ac342c28f16cfdffe4fe7a44b35e2c29ce66695eef39d462f4d92c40844f0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x409067eA3597B6D1B6a1149102c3914E40eFD8e7",
+      "txHash": "0x1465b007133e301a16876f0ef05413e9a70aa9498aa974a59c74b003160b81e7",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x07F6c787Dcb7e5052225115bA443EA010a740337",
+      "txHash": "0x7ad8ba27560d75e2ebdb048f92c46713ecd0224f40831b301626c310405eb9c3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB3458780700EeB4E5C9575A947834e2B32FbEB53",
+      "txHash": "0xc20f571d773f59c6bb855190415cd9f034935fcf16231ce04f999b38dcafea63",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x79b1d447a3b5eF8610041A25F9e3023D2e565988",
+      "txHash": "0x3dbbfac6503bf56cfb1f5069978fd4e9a9218b64c52c40d9b0bb9e3fd0023f37",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5DA7934De097b2589B4d9493bE28d071c5AA24ab",
+      "txHash": "0x00d7890ecdf05bfb40ce7e3962bff245890d7fdc78e059d6642cec038d1786dc",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5beB9891e40d6935670E8CAd543Dc56386373A19",
+      "txHash": "0x98fba726e72a3676b1e2770621a9289b55828e775e6e35c758a944d2731c374f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8729173E60B79B090b67396A7d093660c34D3CB4",
+      "txHash": "0xd1c8c05f33386fad229bd42e09087f22d9fcc83f745015efd524d0b2215c227b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x738558438cD12f86d9D5Db984182d053e76BDDb6",
+      "txHash": "0xef98e6ad63348a8736bc0b6ebf9005674292c046f05b1fc25a255f8e252f1c0f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0041c722e71122db003d31380569f4Bc8Ffaa515",
+      "txHash": "0x054774aa7751b5a53c2972aa26b695bd699066c2491b572b148d380bf1585e6c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5B7f5C35Bd64d9FCF42911829722C87E81483858",
+      "txHash": "0x7bf2a1d5f5c12c957266736ee4d90a2e3c828a2f03a325f543e113a70c8e44f7",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1049E628DA6337b86d2acA6D072Dd169Dc0d29CE",
+      "txHash": "0xc0addb231f26688874338cc53a1fb169b1651139d4985ef8907b95a4fc8e89c9",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7efFbc0E314F3B990B40D63C5A8b62AB2C33d8fd",
+      "txHash": "0x21e10d0c8c30d36dfcc174062e3ab9d4228b3aadce248981f3828bb16679448b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7e2B0d288b2A42501B060a0fd3FE96F00C6cebbe",
+      "txHash": "0xc5fef89ed30d93afd469987ecc2c7516f1f63f2dc808e1221ae239d01bc94a6a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x08D45B993902b35D91E64b937B3F8c69cee8d89f",
+      "txHash": "0x110fa0d07faf8e553beff76701fb4ab553ca92f5c01aaca4f9fd7d14448acfeb",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf4468bfD624F5f05Dc8D9652807FD9EfCb8550e7",
+      "txHash": "0x751ee2bf8d0c583d87ea5c65223a2774e68344a208978496ebf8afe331b11222",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7b8bA905F992639e680b9146b9c10F839dA2E372",
+      "txHash": "0x260a71799e3ec95b2b084e0c8dd71c4882784008966aa289cfe0952c6563790f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xDF8518679CcA60c6983C2C67b118f19b119F52F7",
+      "txHash": "0x755560f4648c294554d18d9b4272c9979393943705f20c7d104a681dd755bd69",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xfA29BA4D269649207B884a8271Eb03aEa744Ca8e",
+      "txHash": "0x563688c81955379d31bf151b0e2bb902025b1c1cba5de923a42d373430d523a4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0305Df3E9FCB22D080B834497f1F2D7D0949C3de",
+      "txHash": "0xc620707ffc27516f706871aa254d2b0436c573e4effae86d441e884e8fee942e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1e21713B26771ef41CBa40098aE3D8b82b7bcCa1",
+      "txHash": "0x89e0b710a7ac99f0b3c63f44b3c949c8ff01d240876e608525736b227ea2e788",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5304b34F070b0bACe7A6dEB5Bb39a9CEABFaC4F4",
+      "txHash": "0x35408f010dcf842796097cfb21178a0410cbee78bb747d7db4b6833cfd6a85c2",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x866E96FC1fB32b940Ed89890773032B9B030162B",
+      "txHash": "0x452c7ed3d922117f586351fac966d431744697d018d380d04e8f9a502163adcb",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "54ad5d8b2ac5003f9a9ce50b853ed370dc0e565e984994cca7cb5dabcdf28fcd": {
+      "address": "0xd18E91Edbeb5406562BDC8C5E3B402823d8890DF",
+      "txHash": "0x372ff727d36f7236ad53136f14776c138325cd612a790194c874c42b404c0908",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningAmount",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:17"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "fc4ee36ce269d9929be966f22a22d2b2f5613ba12e5e85174ca0b4aba2a69c67": {
+      "address": "0x3c565FB6957E3ee442F1bfC9Be8228E3Fe533bD9",
+      "txHash": "0xb164308268c8a171c87eef783d97166f1d1e1fd0f52b35c20a9bfa77ae8f96e4",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "numberOfPlayers",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "83d930447a05f63d619e199afca2ff55a4104cff19df3ee7d1eec23fe9105c3f": {
+      "address": "0xa4B83D047D4987B2349FB0d029F68f080C679f8B",
+      "txHash": "0x402de1bb31bdb8b4f3a7bc0b584023dc9312f6fd30c5e116517aace6d7593ad7",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "numberOfPlayers",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "f38fa81ed07acac02ea3b52dec0b09976ddf812112365ac57b43a0daa6b8f018": {
+      "address": "0xB32Ae74B6dAf9252099bF92216da8eB2d2CcB178",
+      "txHash": "0xc9295aee90b2536411ce1c4eb54eb6c1b996aa82aaf3318e9214615e8518089b",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "numberOfPlayers",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "fb1cfde1e8739e8ef207ce9eb7f3da94994d3083b7942b0cb11d95abdc720c54": {
+      "address": "0x84f66617D80258A4b5a84507AB2451AD2aDc0411",
+      "txHash": "0x83e655562c7421872225e8ec0230259d391768e842c292f36888d4599c07d3f6",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "numberOfPlayers",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "a7c38b9ba21ac63fd198ad369788631e6d3da8e33e8738c2d0ef90cdd0743a47": {
+      "address": "0xa1722EaECB4f16029c6e04e72aA40311aea3c07F",
+      "txHash": "0x07e237bce48873189dcda65c4768b5b7f99a1b02de5831c408a6db8994feb9b0",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "numberOfPlayers",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "382b757f8afddb105ce472aa6b10b285c07d20b55e8d8bdf34cd710b415d25d3": {
+      "address": "0xE89e90D4D31835aA2eCbAFbD3e352D7472D51235",
+      "txHash": "0x00c2a5942577de59ba709749b9b9e66741013fea757390657c15545f23e453ef",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "numberOfPlayers",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "ecc2c5dbb8b4d95abdf5d8b0f90bf5294bae03bcc687d35c928ee5eb5018f4f8": {
+      "address": "0xFFAB4eDa66c46fcaeC062fE29076dC98a2C952Eb",
+      "txHash": "0x69df98f6ef09ff67d8365153325a8252f5f3d58d9dcb518c64a9b1be4c5ed145",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "numberOfPlayers",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:13"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "ba116150e46739ffb256f6044326da73991c1266c2178a82c6073f55c1482119": {
+      "address": "0x864c9e73D4eFC4EF8C6aA1324563dE8326bBBA6A",
+      "txHash": "0x77acf0b476db73b0137d19338e64b9637de61b5da262b8cf9a90371d206358cb",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "d0ee9013322778cbb2454ed304503dc7e93838860c87d2ab450a114f8cbd6142": {
+      "address": "0x44E723968a8A8Fe390104257DB53dEd6D1BdAE33",
+      "txHash": "0x74df327f772124ed215d5709a504195dfa7ae5c03bf116ed3469af3f7016237a",
+      "layout": {
+        "solcVersion": "0.8.13",
+        "storage": [
+          {
+            "contract": "ContratLoterie",
+            "label": "owner",
+            "type": "t_address",
+            "src": "../project:/contracts/ContratLoterie.sol:7"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "finalized",
+            "type": "t_bool",
+            "src": "../project:/contracts/ContratLoterie.sol:9"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "winningPrize",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:10"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "luckyNumber",
+            "type": "t_uint256",
+            "src": "../project:/contracts/ContratLoterie.sol:11"
+          },
+          {
+            "contract": "ContratLoterie",
+            "label": "players",
+            "type": "t_mapping(t_address,t_bool)",
+            "src": "../project:/contracts/ContratLoterie.sol:12"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address"
+          },
+          "t_bool": {
+            "label": "bool"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)"
+          }
+        },
+        "namespaces": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Welcome</title>
+        <link rel="stylesheet" href="css/app.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/4.8.0/web3.min.js" integrity="sha512-ezmwxlbrU+yplnt3MahXAQaNiiGS+5afDIgMIaFSVYN78y5yjiNl3pF9z/i7gunDB2ppegmfyjXlD/3HibuvXw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="js/app.js" defer></script>
+        <style>
+            #lottery-close {
+                background-color: #ffcccc;
+                padding: 10px; 
+                border: 2px solid #ff0000;
+            }
+    
+            #lottery-close p {
+                color: #ff0000;
+                font-weight: bold;
+            }
+
+            #lottery-open {
+                background-color: #ccffcc;
+                padding: 10px; 
+                border: 2px solid #008000;
+            }
+    
+            #lottery-open p {
+                color: #008000;
+                font-weight: bold;
+            }
+
+        </style>
+    </head>
+    <body>
+
+        <h1>Welcome to our ETH lottery !</h1>
+
+        <hr>
+
+        <h2>Lottery rules</h2>
+
+        <p>
+            Le prix à gagner est 0,5 ETH. Pour participer à la loterie, chaque participant doit choisir un 
+            numéro entre 1 et 100 et envoyer une mise de 0,05 ETH. Si le numéro choisi par le participant correspond au 
+            numéro gagnant, ce participant remporte le prix. Le nombre de participation n'est pas limité. Dès 
+            que le prix est remporté, la loterie s'arrête. Elle ne se réouvre que lorsqu'un nouveau numéro gagnant est tiré par le 
+            détenteur du contrat.
+        </p>
+
+        <hr>
+
+        <h2>Participate in the lottery</h2>
+
+        <div id="lottery-close" style="display: none;">
+            <p>Sorry, the lottery is currently closed. Please try again later !</p>
+        </div>
+
+        <div id="lottery-open" style="display: none;">
+            <p>The lottery is currently open. You can participate now !</p>
+        </div>
+
+        <br>
+
+        <form id="participation-form">
+            
+            <div>
+                <label for="chosen-number">Choose your winning number (between 1 and 100) :</label><br>
+                <input id="chosen-number" type="number" step="1" min="1" max="100" required>
+            </div>
+
+            <br>
+
+            <div>
+                <label for="mise">To send your entry, you must pay :</label><br>
+                <input type="number" id="mise" value="0.05" readonly required>
+                <label for="mise">ETH</label>
+            </div>
+
+            <br>
+            
+            <button type="submit" id="submit-button">Send</button>
+        </form>
+
+        <div class="confetti">
+            <lottie-player class="success-anim" src="https://assets10.lottiefiles.com/packages/lf20_rovf9gzu.json"
+                background="transparent" speed="1"></lottie-player>
+        </div>
+
+    </body>
+</html>
